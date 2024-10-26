@@ -1,0 +1,1 @@
+# Tutorial-Monitoramento-Inteligente-com-Azure-Microsft-Azure-Essentials-DIO
